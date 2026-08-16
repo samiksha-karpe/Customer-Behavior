@@ -114,10 +114,6 @@ Python was used to prepare the dataset and perform exploratory analysis.
 * Demographic analysis
 * Preparation of data for SQL and Power BI
 
-The complete analysis is available in:
-
-**`Customer_behavior.ipynb`**
-
 ---
 
 ## 🗄️ 2. SQL Business Analysis
@@ -136,10 +132,6 @@ The cleaned dataset was analyzed using PostgreSQL to answer business-oriented qu
 * Customer ratings
 * Purchase frequency
 * Customer segmentation
-
-SQL queries are available in:
-
-**`Customer_behavior Sql.sql`**
 
 ---
 
